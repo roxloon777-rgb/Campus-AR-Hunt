@@ -7,7 +7,7 @@ function setupScene() {
 
   const coords = {
     law:    { lat: -26.688730, lon: 27.091206, model: 'assets/models/medical_mask.glb' },
-    lovers: { lat: -26.687913, lon: 27.092682, model: 'assets/models/medical_syringe.glb' },
+    lovers: { lat: -26.687913, lon: 27.092682, model: 'models/medical_syringe.glb' },
     tree:   { lat: -26.688911, lon: 27.092593, model: 'models/doctors_stethoscope.glb' }
   }
 
